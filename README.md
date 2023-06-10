@@ -16,7 +16,7 @@ A new Flutter project.
 <div style="display: flex; gap: 20px;">
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/42b75842-4911-4aa5-8a20-14b3793cf32d" width="250" height="auto" />
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/c67873d4-1aeb-4797-a6d2-281b6dd29416" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/49aa724d-295e-4764-b4b2-a101a701ee27" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/53f49a4f-9a89-400c-af0d-48fd7f4ad9ae" width="250" height="auto" />
 </div>
 
 ## Getting Started
