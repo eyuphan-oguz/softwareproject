@@ -6,13 +6,18 @@ A new Flutter project.
 ![ezgif com-video-to-gif](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/dfb1a505-9445-4abb-ba60-2fad55d76e5d)
 
 
-<img src="https://github.com/eyuphan-oguz/softwareproject/blob/main/assets/75530935/4b5ae090-eb6d-487b-9a62-08a2ccf12d9f.png" style="width:500px; height:300px;">
+
+![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2)
 
 
-<img src="https://raw.githack.com/eyuphan-oguz/softwareproject/main/assets/images/login-page.png" style="width:500px; height:300px;">
 
 
-
+<a href="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2">
+  <img src="URL1" alt="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="500" height="300">
+</a>
+<a href="![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2)">
+  <img src="![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2)" alt="Resim Açıklaması 2" width="500" height="300">
+</a>
 
 
 ## Getting Started
