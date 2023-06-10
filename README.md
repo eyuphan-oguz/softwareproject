@@ -7,7 +7,7 @@ A new Flutter project.
 
 
 
-<img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="500" />
+<img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
 
 ## Getting Started
 
