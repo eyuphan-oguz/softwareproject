@@ -4,9 +4,10 @@ A new Flutter project.
 
 
 ![ezgif com-video-to-gif](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/dfb1a505-9445-4abb-ba60-2fad55d76e5d)
-＜img src="![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/e8deb769-79c0-46c3-9396-e06aed03d5d7)" width="500" height="300"＞
 
-img src="![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/4b5ae090-eb6d-487b-9a62-08a2ccf12d9f)" width="500" height="300"＞
+
+<img src="https://github.com/eyuphan-oguz/softwareproject/blob/main/assets/75530935/4b5ae090-eb6d-487b-9a62-08a2ccf12d9f.png" style="width:500px; height:300px;">
+
 ![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/4b5ae090-eb6d-487b-9a62-08a2ccf12d9f)
 
 
