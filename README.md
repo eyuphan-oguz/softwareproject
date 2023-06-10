@@ -3,15 +3,16 @@
 A new Flutter project.
 
 
-
 <div style="display: flex; gap: 20px;">
   <p align="center">
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/dfb1a505-9445-4abb-ba60-2fad55d76e5d" alt="GIF Açıklaması" width="250" height="auto">
 </p>
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/e57d6a28-a075-486a-99a0-b0037152fafb" width="250" height="auto" />
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
 </div>
+
+
 
 
 ## Getting Started
