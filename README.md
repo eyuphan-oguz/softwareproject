@@ -3,7 +3,6 @@
 A new Flutter project.
 
 
-![ezgif com-video-to-gif](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/4ca19fbb-1f91-4c87-95c9-61d73775ff4e)
 
 
   <p align="center">
