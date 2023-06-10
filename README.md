@@ -6,8 +6,11 @@ A new Flutter project.
 ![ezgif com-video-to-gif](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/dfb1a505-9445-4abb-ba60-2fad55d76e5d)
 
 
+<div style="display: flex;">
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
+</div>
 
-<img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
 
 ## Getting Started
 
