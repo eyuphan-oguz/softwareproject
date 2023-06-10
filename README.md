@@ -12,13 +12,7 @@ A new Flutter project.
 
 
 
-<a href="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2">
-  <img src="URL1" alt="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="500" height="300">
-</a>
-<a href="![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2)">
-  <img src="![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2)" alt="Resim Açıklaması 2" width="500" height="300">
-</a>
-
+<img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="200" height="400" />
 
 ## Getting Started
 
