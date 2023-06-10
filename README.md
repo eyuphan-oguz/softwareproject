@@ -7,12 +7,7 @@ A new Flutter project.
 
 
 
-![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2)
-
-
-
-
-<img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="200" height="400" />
+<img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="300" height="500" />
 
 ## Getting Started
 
