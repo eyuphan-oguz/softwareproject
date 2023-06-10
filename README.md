@@ -22,7 +22,7 @@ A new Flutter project.
 <div style="display: flex; gap: 20px;">
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/6a99ed02-c6ce-4290-a884-e47626177015" width="250" height="auto" />
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/c544255f-f27e-43b9-9660-f2360c529a95" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/53f49a4f-9a89-400c-af0d-48fd7f4ad9ae" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/83b22497-05d7-4f0c-a5a2-4b00c1e76a04" width="250" height="auto" />
 </div>
 
 ## Getting Started
