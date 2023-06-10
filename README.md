@@ -7,7 +7,7 @@ A new Flutter project.
 
 
 <div style="display: flex;">
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" margin-right: 10px;/>
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
 </div>
 
