@@ -8,7 +8,10 @@ A new Flutter project.
 
 <img src="https://github.com/eyuphan-oguz/softwareproject/blob/main/assets/75530935/4b5ae090-eb6d-487b-9a62-08a2ccf12d9f.png" style="width:500px; height:300px;">
 
-![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/4b5ae090-eb6d-487b-9a62-08a2ccf12d9f)
+
+<img src="https://github.com/eyuphan-oguz/softwareproject/blob/main/assets/images/login-page.png" style="width:500px; height:300px;">
+
+
 
 
 
