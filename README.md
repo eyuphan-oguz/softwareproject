@@ -1,7 +1,9 @@
 # Movie Project
 
 A new Flutter project.
-
+<p align="center">
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/dfb1a505-9445-4abb-ba60-2fad55d76e5d" alt="GIF Açıklaması" width="500" height="300">
+</p>
 
 ![ezgif com-video-to-gif](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/dfb1a505-9445-4abb-ba60-2fad55d76e5d)
 
