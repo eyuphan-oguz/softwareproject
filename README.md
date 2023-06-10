@@ -19,6 +19,12 @@ A new Flutter project.
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/53f49a4f-9a89-400c-af0d-48fd7f4ad9ae" width="250" height="auto" />
 </div>
 
+<div style="display: flex; gap: 20px;">
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/6a99ed02-c6ce-4290-a884-e47626177015" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/c67873d4-1aeb-4797-a6d2-281b6dd29416" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/53f49a4f-9a89-400c-af0d-48fd7f4ad9ae" width="250" height="auto" />
+</div>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
