@@ -1,10 +1,4 @@
 # Movie Project
-
-A new Flutter project.
-
-
-
-
   <p align="center">
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/4ca19fbb-1f91-4c87-95c9-61d73775ff4e?raw=true" alt="GIF Açıklaması" width="250" height="auto">
 </p>
