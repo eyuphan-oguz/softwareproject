@@ -4,7 +4,8 @@ A new Flutter project.
 
 
 ![ezgif com-video-to-gif](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/dfb1a505-9445-4abb-ba60-2fad55d76e5d)
-![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/e8deb769-79c0-46c3-9396-e06aed03d5d7)
+＜img src="![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/e8deb769-79c0-46c3-9396-e06aed03d5d7)" width="500" height="300"＞
+
 
 
 ## Getting Started
