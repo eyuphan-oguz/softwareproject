@@ -9,7 +9,7 @@ A new Flutter project.
 </p>
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/1f549f44-86ef-4373-94b1-58a659f286a3" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/49aa724d-295e-4764-b4b2-a101a701ee27" width="250" height="auto" />
 </div>
 
 
