@@ -5,8 +5,7 @@ A new Flutter project.
 
 <div style="display: flex; gap: 20px;">
   <p align="center">
-  <img src="![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/7293dc63-9bb4-4a2c-9a5a-94ed276d51c4)
-" alt="GIF Açıklaması" width="250" height="auto">
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/827cfc85-9ba8-4cd4-af66-948381ae2bf4" alt="GIF Açıklaması" width="250" height="auto">
 </p>
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/1f549f44-86ef-4373-94b1-58a659f286a3" width="250" height="auto" />
