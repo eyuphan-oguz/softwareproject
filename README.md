@@ -1,7 +1,14 @@
 # Movie Project
 
 A new Flutter project.
-![update](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/835dc684-28da-47f5-a2a5-df6732d69a76)
+
+
+![ezgif com-video-to-gif](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/4ca19fbb-1f91-4c87-95c9-61d73775ff4e)
+
+
+  <p align="center">
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/4ca19fbb-1f91-4c87-95c9-61d73775ff4e?raw=true" alt="GIF Açıklaması" width="250" height="auto">
+</p>
 
 <div>
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3ef0a41f-c923-46c9-a13c-80627b0e06ff?raw=true" alt="Resim Açıklaması 1" width="250" height="auto">
@@ -10,9 +17,7 @@ A new Flutter project.
 </div>
 
 <div style="display: flex; gap: 20px;">
-  <p align="center">
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/827cfc85-9ba8-4cd4-af66-948381ae2bf4" alt="GIF Açıklaması" width="250" height="auto">
-</p>
+
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/228bc3f8-b2e2-47e7-801f-5866fb40b178?raw=true" width="250" height="auto" />
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/a042723a-3715-4cd4-b012-e30c28660d5f?raw=true" width="250" height="auto" />
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/8e2767d6-dfa9-4790-8ac4-3dbe9e638b88?raw=true" width="250" height="auto" />
@@ -25,11 +30,7 @@ A new Flutter project.
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/835dc684-28da-47f5-a2a5-df6732d69a76?raw=true" width="250" height="auto" />
 </div>
 
-<div style="display: flex; gap: 20px;">
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/6a99ed02-c6ce-4290-a884-e47626177015" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/c544255f-f27e-43b9-9660-f2360c529a95" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/83b22497-05d7-4f0c-a5a2-4b00c1e76a04" width="250" height="auto" />
-</div>
+
 
 ## Getting Started
 
