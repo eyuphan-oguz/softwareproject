@@ -1,6 +1,7 @@
 # Movie Project
 
 A new Flutter project.
+![update](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/835dc684-28da-47f5-a2a5-df6732d69a76)
 
 <div>
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3ef0a41f-c923-46c9-a13c-80627b0e06ff?raw=true" alt="Resim Açıklaması 1" width="250" height="auto">
@@ -12,16 +13,16 @@ A new Flutter project.
   <p align="center">
   <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/827cfc85-9ba8-4cd4-af66-948381ae2bf4" alt="GIF Açıklaması" width="250" height="auto">
 </p>
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3339ba21-0d2a-4cb3-bab0-866f5cd4f2f2" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/1f549f44-86ef-4373-94b1-58a659f286a3" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/49aa724d-295e-4764-b4b2-a101a701ee27" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/228bc3f8-b2e2-47e7-801f-5866fb40b178?raw=true" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/a042723a-3715-4cd4-b012-e30c28660d5f?raw=true" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/8e2767d6-dfa9-4790-8ac4-3dbe9e638b88?raw=true" width="250" height="auto" />
 </div>
 
 
 <div style="display: flex; gap: 20px;">
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/42b75842-4911-4aa5-8a20-14b3793cf32d" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/c67873d4-1aeb-4797-a6d2-281b6dd29416" width="250" height="auto" />
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/53f49a4f-9a89-400c-af0d-48fd7f4ad9ae" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/694efaf4-ea80-4b8c-bcb2-23a7d57f137f?raw=true" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/f3bd644d-0331-47e1-b828-166a3c7be30d?raw=true" width="250" height="auto" />
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/835dc684-28da-47f5-a2a5-df6732d69a76?raw=true" width="250" height="auto" />
 </div>
 
 <div style="display: flex; gap: 20px;">
