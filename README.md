@@ -1,10 +1,9 @@
 # Movie Project
 
 A new Flutter project.
-![login-page](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3ef0a41f-c923-46c9-a13c-80627b0e06ff?raw=true)
 
 <div>
-  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3ef0a41f-c923-46c9-a13c-80627b0e06ff?raw=true" alt="Resim Açıklaması 1" width="300" height="200">
+  <img src="https://github.com/eyuphan-oguz/softwareproject/assets/75530935/3ef0a41f-c923-46c9-a13c-80627b0e06ff?raw=true" alt="Resim Açıklaması 1" width="250" height="auto">
   <img src="URL2" alt="Resim Açıklaması 2" width="250" height="auto">
   <img src="URL3" alt="Resim Açıklaması 3" width="300" height="200">
 </div>
