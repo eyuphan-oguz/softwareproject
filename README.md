@@ -3,7 +3,8 @@
 A new Flutter project.
 
 
-Uploading Simulator Screen Recording - iPhone 14 Pro - 2023-06-10 at 12.23.20.mov…
+[Uploading Simulator Screen Recording - iPhone 14 Pro - 2023-06-10 at 12.23.20.mov…](https://github.com/eyuphan-oguz/softwareproject/assets/75530935/70fc74be-7b62-4221-8b8b-af81fbdcd2c8
+)
 
 
 ## Getting Started
